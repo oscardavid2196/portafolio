@@ -1,0 +1,72 @@
+--- PAGE 1 ---
+HOJA DE VIDA · 2026
+Oscar David
+Gaviria Martinez
+Desarrollador Junior .NET
+Ingeniero de Sistemas con más de dos años de experiencia en desarrollo de software, análisis de información e integración de bases de datos. Construyo soluciones
+web claras, funcionales y orientadas a resolver necesidades reales.
+01 / CONTACTO PERFIL
+Hablemos 01 Sobre mí
+TELÉFONO He participado en soluciones empresariales de compras, inventarios e invernaderos, trabajando con SQL, PostgreSQL,
++57 315 655 7287
+MySQL, React, JavaScript, Python y Firebase. También he creado proyectos independientes con ASP.NET Core, C#, API REST,
+CORREO Java y Spring Boot, e integrado machine learning con Random Forest para el análisis de sensores.
+oscardavid21.96@gmail.com
+U Ib B a IC g A u C é I , Ó T N olima · Colombia 2+ .NET SQL
+años de experiencia enfoque backend datos e integración
+GitHub LinkedIn
+TRAYECTORIA
+02 Experiencia profesional
+02 / HERRAMIENTAS
+Stack técnico
+PANACEA S.A.S.
+LENGUAJES Desarrollador Junior Jun 2022 - Jul 2024
+C# Java Python JavaScript
+Diseñé y estructuré en PostgreSQL la base de datos en línea de una plataforma web de compras e inventarios.
+TypeScript Dart Construí consultas SQL, joins y triggers, conectando la base local del sistema con la base de datos en línea para actualizar
+productos y generar reservas.
+BACKEND
+Desarrollé y mejoré componentes en React y JavaScript para consulta de productos, compras en línea y gestión de reservas.
+ASP.NET Core Minimal APIs API REST
+Participé en un sistema de invernaderos con Python y Firebase para procesar mediciones periódicas de humedad y temperatura.
+Spring Boot Apliqué Random Forest y reglas por cultivo para activar aspersores y ventiladores cuando las variables salían de los parámetros
+definidos.
+FRONTEND
+Creé en MySQL la estructura de usuarios y parámetros operativos, además de su interfaz de consulta y modificación.
+React Next.js Flutter Vite
+Tailwind CSS
+PRÁCTICA APLICADA
+03 Proyectos destacados
+DATOS Y HERRAMIENTAS
+PostgreSQL SQL MySQL Firebase Git
+01 02
+E-COMMERCE · PROYECTO FUNCIONAL BACKEND · API REST
+Docker JWT
+Plataforma de cursos jurídicos Gestión de casos y citas
+API y experiencia responsive con catálogo, filtros, buscador, API segura para casos jurídicos, agendamiento, roles,
+ficha de curso, carrito persistente y checkout demostrativo. fechas límite y vencimientos, desarrollada con pruebas
+03 / COMUNICACIÓN unitarias.
+Idiomas ASP.NET Core C# React TypeScript
+Java Spring Boot PostgreSQL Docker
+Español Nativo
+03 04
+Inglés B2 · Intermedio alto FULL STACK · EN DESARROLLO MULTIPLATAFORMA · TERMINADO
+Servicios jurídicos Aplicación de Sudoku
+Base de plataforma para autenticación, reserva de citas, Juego con dificultades, límites de errores, cronómetro,
+pagos, agenda, mensajería y panel administrativo. pistas, puntuación, temas y soporte multilingüe.
+04 / FORMACIÓN
+Educación Next.js Prisma Supabase JWT Flutter Dart Provider Hive
+2024
+APRENDIZAJE CONTINUO
+Ingeniería de Sistemas 04 Formación complementaria
+Universidad Cooperativa de Colombia
+Platzi .NET, C#, Visual Basic, SQL, PostgreSQL, Java, Python, ingeniería de prompts, LLM e IA aplicada al desarrollo.
+05 / REFERENCIA Udemy Spring Boot y Spring Framework, Spring Boot con React, Angular con Spring Boot y Máster en Java.
+Referencia personal
+Deiber Caicedo IA para desarrollo Formación y uso de GitHub Copilot, ChatGPT, Claude, Cursor y Codex para planear, documentar y construir
+DC (SIESA) software.
+Información de contacto disponible a
+solicitud.
+Oscar David Gaviria Martinez
+Construyamos algo útil juntos ↗
+Desarrollador Junior .NET · Ibagué, Colombia
